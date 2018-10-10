@@ -1,4 +1,6 @@
 Cold and dry, but everything is my favorite color.
-Something something ominous and things about the wolf man.
-An ill considered change.
+<<<<<<< HEAD
 This line added to cloned copy.
+=======
+But we'll continue making changes to the owner's manual.
+>>>>>>> 194b89702b87c5c207a79e351e1b2a5976358a1d
